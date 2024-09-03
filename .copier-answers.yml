@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/nlesc/python-template.git
+copyright_holder: Mahmoud Abdelrazek
+email: razekmh@gmail.com
+full_name: Mahmoud Abdelrazek
+github_organization: razekmh
+keywords: food, rice, pasta
+license: MIT
+package_name: koshari
+package_short_description: Best food
+template_profile: minimum
+version: 0.1.0
